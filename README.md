@@ -1,11 +1,4 @@
-# C# Console Applications App01 to App05
-| Author | Details |
-| ---- | ---- |
-**Name**: |  |
-**Student ID**: |  |
-**Course:** |  |
-**Module**: |  |
-**Started**: |  |    
+# C# Console Applications App01 to App04
 
 1. App01: Distance Converter
 2. App02: BMI Calculator
